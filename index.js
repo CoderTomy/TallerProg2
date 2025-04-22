@@ -169,7 +169,3 @@ console.log(`🚀 ~ esMayor:`, esMayor);
 let valor = 0;
 const resultado= valor && "no hay valor";
 console.log(`🚀 ~ resultado:`, resultado); 
-
-
-
-
